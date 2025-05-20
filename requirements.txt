@@ -1,0 +1,7 @@
+gradio
+tensorflow
+google-genai
+gtts
+numpy
+streamlit
+google-generativeai
